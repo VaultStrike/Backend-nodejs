@@ -1,0 +1,15 @@
+[{
+    "id": "2867ee60-ed34-485c-a747-3368660d1cc2",
+    "name": "nick12",
+    "password": "Nick121",
+    "Email": "nick@gmail.com",
+    "role": "visitor",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibmljazEyIiwiRW1haWwiOiJuaWNrQGdtYWlsLmNvbSIsImlkIjoiZTFkNmYyZTQtMGYwZS00YWQ0LWFlMjktYTA5YzNlYTViOWI3IiwicGFzc3dvcmQiOiJOaWNrMTIxIiwicm9sZSI6InZpc2l0b3IiLCJpYXQiOjE3MjQ4MjkxNjYsImV4cCI6MTcyNjAzODc2Nn0.4qWpTy_FC1l9FvC4Uhz-Kf2Voc3oI4qqrk3uwQ4Wm-0"
+}, {
+    "id": "2d614969-0bb3-4338-be12-7dc34479e556",
+    "name": "nick",
+    "password": "Nick121",
+    "Email": "nick4U@gmail.com",
+    "role": "admin",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibmljayIsIkVtYWlsIjoibmljazRVQGdtYWlsLmNvbSIsImlhdCI6MTcyNDgyODkzOSwiZXhwIjoxNzI2MDM4NTM5fQ.EyYC4GaCZ8_h66Z4baVKNYpHRHumFxkViwVc5kjZn-M"
+}]
